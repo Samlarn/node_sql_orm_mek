@@ -1,0 +1,17 @@
+.vscode
+
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
+
+package-lock.json
+
+logs
+*.log
+npm-debug.log*
+
+tok.txt
+
+dev-database.*
