@@ -1,5 +1,5 @@
 # About 
-Just a small lab repo for tje Node.js Sequelize ORM.
+Just a small lab repo for the Node.js Sequelize ORM.
 
 # Requirements
 * Nodejs 12+  
